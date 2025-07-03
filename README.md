@@ -2,13 +2,13 @@
 ---
 ---
 ### CSE220 Materials
-Course Materials: GitHub Repository https://github.com/zabermd/Data-Structures-and-their-Use-in-Elementary-Algorithms
-Course Outline: Course Outline https://docs.google.com/document/d/1QoZ3XwHtxPEEa7Q6sF0tzl4WJ7Iv58OR/edit?usp=sharing&ouid=110679202042102039686&rtpof=true&sd=true
-Previous Question: 
+> Course Materials: GitHub Repository https://github.com/zabermd/Data-Structures-and-their-Use-in-Elementary-Algorithms
+> Course Outline: Course Outline https://docs.google.com/document/d/1QoZ3XwHtxPEEa7Q6sF0tzl4WJ7Iv58OR/edit?usp=sharing&ouid=110679202042102039686&rtpof=true&sd=true
+> Previous Question: 
   Midterm https://drive.google.com/drive/folders/1e-dILGUESJYbcbBeQlq43myZ9zZAXaxb?usp=sharing
   Final https://drive.google.com/drive/folders/1zJBbfRfeNRzj57dU6t6EwagEAnnvElUh?usp=sharing
-Marks Distribution (Tentative):
-Quiz: 15%, Mid: 25%, Final: 35% and Lab: 25%
+> Marks Distribution (Tentative):
+> Quiz: 15%, Mid: 25%, Final: 35% and Lab: 25%
 ---
 ---
 ### CSE250 Course Contents and Study Materials
