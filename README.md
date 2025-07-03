@@ -3,7 +3,7 @@
 
 <details>
   <summary> click to expand</summary>
-  other stuff 
+  ### other stuff 
   after expanded
 </details>
 
