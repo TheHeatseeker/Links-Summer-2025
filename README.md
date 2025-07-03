@@ -1,17 +1,5 @@
 # Links-Summer-2025
 
-<details>
-  <summary>
-    Click to expand
-  </summary>
-  expansion 1
-  <details>
-    <summary>
-      click to expand 2
-    </summary>
-    expansion 2
-  </details>
-</details>
 
 ### CSE250 Course Contents and Study Materials
 > -# ‼️ Listen to your section faculty on how you should follow the materials.
@@ -22,9 +10,12 @@
 > * Course Description and Course Outcomes:
 > https://docs.google.com/document/d/1U1ujmOj5rzPhKYRxPVIeGI7Jsetbt_CyhKI8JZaUapA/edit?usp=drive_link
 
+<details>
+  <summary>
 ```prolog
 Theory Materials ↓
 ```
+  </summary>
 > * Lecture Slides:
 > https://drive.google.com/drive/folders/1InXQaFzcpopkLLxTPJhtPY7c_D0XD7-J?usp=drive_link
 > 
@@ -45,7 +36,7 @@ Theory Materials ↓
 > 
 > * Circuit Simulation Softwares (not mandatory):
 > https://drive.google.com/drive/folders/1y-nsvbP3SPmm8xLnna-VUz1-7T_uvhqi?usp=drive_link
-
+</details>
 
 ```prolog
 Lab Materials ↓
