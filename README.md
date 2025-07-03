@@ -1,7 +1,7 @@
 # Links-Summer-2025
 
 
-# CSE250 Course Contents and Study Materials
+## CSE250 Course Contents and Study Materials
 > -# ‼️ Listen to your section faculty on how you should follow the materials.
 > 
 > * Academic Calendar:
