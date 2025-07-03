@@ -15,7 +15,7 @@
 Theory Materials ↓
 ```
 
-> * Lecture Slides:
+> * <mark>Lecture Slides</mark>:
 > https://drive.google.com/drive/folders/1InXQaFzcpopkLLxTPJhtPY7c_D0XD7-J?usp=drive_link
 > 
 > * Previous Semesters' Mid and Final Questions:
