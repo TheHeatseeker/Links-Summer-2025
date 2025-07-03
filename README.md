@@ -21,7 +21,7 @@ Theory Materials ↓
 > * Previous Semesters' Mid and Final Questions:
 > https://drive.google.com/drive/folders/1J_v-d3gjkUfl80NFROUPiy4YqPCZtfaN?usp=drive_link
 > 
-> *  Practice problems:
+> *  <mark>Practice problems</mark>:
 > https://drive.google.com/drive/folders/1Lyd9vesm1yTCy1_0CzrmSUWEwjygVmYK?usp=sharing
 > 
 > * Additional Suggested Problems from Textbook:
@@ -43,7 +43,7 @@ Lab Materials ↓
 > * Lab Policy:
 > https://docs.google.com/document/d/1ZXqp2el-PQq5DCOwlq-0ZPsZMcnJYa9kvRZjm6rmZaM/edit?usp=sharing
 > 
-> * Lab Sheets:
+> * <mark>Lab Sheets</mark>:
 > https://drive.google.com/drive/folders/1vS5r47VJLmh8RJNey37f2RXB6fUrHkm9?usp=sharing
 > 
 > * Lab Equipment Tutorial:
