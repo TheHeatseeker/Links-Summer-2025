@@ -1,5 +1,12 @@
 # Links-Summer-2025
 
+
+<details>
+  <summary> click to expand</summary>
+  other stuff 
+  after expanded
+</details>
+
 ### CSE250 Course Contents and Study Materials
 > -# ‼️ Listen to your section faculty on how you should follow the materials.
 > 
