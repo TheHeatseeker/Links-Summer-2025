@@ -1,10 +1,16 @@
 # Links-Summer-2025
 
-
 <details>
-  <summary> click to expand</summary>
-  ### other stuff 
-  after expanded
+  <summary>
+    Click to expand
+  </summary>
+  expansion 1
+  <details>
+    <summary>
+      click to expand 2
+    </summary>
+    expansion 2
+  </details>
 </details>
 
 ### CSE250 Course Contents and Study Materials
